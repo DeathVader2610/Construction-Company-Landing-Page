@@ -11,8 +11,14 @@ A **fully animated, modern, and responsive landing page** designed for a constru
 The project is built using **pure HTML, CSS, and JavaScript**, without frameworks, emphasizing performance, readability, and maintainability.
 
 ---
----
+## 📸 Website Preview
 
+<p align="center">
+  <a href="https://construction-company-landing-page-b531ey9ub.vercel.app/" target="_blank">
+    <img src="screenshots/landing.png" width="1000" alt="Live Preview" />
+  </a>
+</p>
+---
 ## 🔗 Live Preview
 
 👉 **[View Live Demo](https://construction-company-landing-page-b531ey9ub.vercel.app/)**  
