@@ -15,7 +15,7 @@ The project is built using **pure HTML, CSS, and JavaScript**, without framework
 
 ## 🔗 Live Preview
 
-👉 **[View Live Demo](construction-company-landing-page-b531ey9ub.vercel.app)**  
+👉 **[View Live Demo](https://construction-company-landing-page-b531ey9ub.vercel.app/)**  
 
 
 ---
